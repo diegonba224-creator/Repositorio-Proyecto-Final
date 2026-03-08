@@ -53,3 +53,9 @@ else:                                                      # Si no se encontró 
     print(f"❌ Elemento {x} no encontrado en la lista")    # Indico que no se encontró el elemento 
 print(40*"-")                                              
 # Descripción básica de la funcionalidad del código
+
+def multiplicar(a, b):
+    """
+    Función para multiplicar dos números.
+    """
+    return a * b
