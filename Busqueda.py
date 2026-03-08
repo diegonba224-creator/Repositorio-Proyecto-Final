@@ -52,3 +52,4 @@ if encontrado:                                         # Verifico si se encontr�
 else:                                                      # Si no se encontró el elemento:
     print(f"❌ Elemento {x} no encontrado en la lista")    # Indico que no se encontró el elemento 
 print(40*"-")                                              
+# Descripción básica de la funcionalidad del código
